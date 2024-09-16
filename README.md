@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--Atualmente, curso o Segundo ano do ensino médio, e faço o curso de informática para a internet no SENAI
-**PietroSollano/PietroSollano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estudante:
+**Segundo Ano do Ensino Médio**
+**Curso Informática para a Internet** pelo **SENAI Rinaldo Campos Soares - Ipatinga/MG**
 
-Here are some ideas to get you started:
+Unidades Curriculares:
+Concluidos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[x]**INFORMÁTICA APLICADA**
+[X]**FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO**
+[X]**COMUNICAÇÃO E REDAÇÃO TÉCNICA**
+[x]**PROJETO DE INOVAÇÃO: PROCESSO CRIATIVO – INDÚSTRIA 4.0, LEAN E IDEAÇÃO**
+[x]**LÓGICA DE PROGRAMAÇÃO**
+
+Em Progesso:
+
+[x]**PROJETO DE INTERFACE WEB**
+[x]**PROGRAMAÇÃO CLIENT-SIDE**
+[x]**TESTE DE FRONT-END**
+[x]**PROJETO DE INOVAÇÃO: MODELAGEM DE PROJETOS – DESIGN THINKING E CANVAS**
+[x]**BANCO DE DADOS**
+[x]**DESENVOLVIMENTO DE SISTEMAS WEB**
+[x]**TESTE DE BACK-END**
+[x]**IMPLANTAÇÃO DE SISTEMA WEB**
+[x]**PROJETO DE INOVAÇÃO: MINDSET EMPREENDEDOR E PROTOTIPAÇÃO**
+[x]**PROJETO DE INOVAÇÃO: TRABALHO DE CONCLUSÃO DO CURSO**
