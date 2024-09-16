@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!--Atualmente, curso o Segundo ano do ensino médio, e faço o curso de informática para a internet no SENAI
 **PietroSollano/PietroSollano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
